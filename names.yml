@@ -298,6 +298,10 @@ VA:
   fr: Saint-Siège (le)
   en: Holy See
   es: Santa Sede
+HK:
+  fr: Hong Kong
+  en: Hong Kong
+  es: Hong Kong
 HN:
   fr: Honduras
   en: Honduras
@@ -410,6 +414,10 @@ LU:
   fr: Luxembourg
   en: Luxembourg
   es: Luxemburgo
+MF:
+  fr: Saint Martin (partie française)
+  en: Saint Martin (French part)
+  es: San Martín (Francia)
 MK:
   fr: Macédoine
   en: Macedonia
@@ -642,6 +650,14 @@ SO:
   fr: Somalie
   en: Somalia
   es: Somalia
+SX:
+  fr: Saint-Martin (Royaume des Pays-Bas)
+  en: Sint Maarten (Dutch part)
+  es: Sint Maarten (Holandés)
+TW:
+  fr: Taïwan
+  en: Taiwan
+  es: Taiwán
 ZA:
   fr: Afrique du Sud
   en: South Africa
