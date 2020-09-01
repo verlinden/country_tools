@@ -2,10 +2,30 @@ AF:
   fr: Afghanistan
   en: Afghanistan
   es: Afganistán
+AI:
+  fr: Anguilla
+  en: Anguilla
+  es: Anguilla
 AL:
   fr: Albanie
   en: Albania
   es: Albania
+AQ:
+  fr: Antarctique
+  en: Antarctica
+  es: Antartida
+AS:
+  fr: Samoa Américaines
+  en: American Samoa
+  es: Samoa americana
+AW:
+  fr: Aruba
+  en: Aruba
+  es: Aruba
+AX:
+  fr: Îles Åland
+  en: Åland Islands
+  es: Islas Åland
 DZ:
   fr: Algérie
   en: Algeria
@@ -58,6 +78,22 @@ BB:
   fr: Barbade
   en: Barbados
   es: Barbados
+BM:
+  fr: Bermudes
+  en: Bermuda
+  es: Bermuda
+BL:
+  fr: Saint Barthélemy
+  en: Saint Barthélemy
+  es: San Bartolomé
+BQ:
+  fr: Bonaire, Saint-Eustache et Saba
+  en: Bonaire, Sint Eustatius and Saba
+  es: Bonaire, Sint Eustatius y Saba
+BV:
+  fr: Île Bouvet
+  en: Bouvet Island
+  es: Isla Bouvet
 BY:
   fr: Biélorussie
   en: Belarus
@@ -138,6 +174,18 @@ TD:
   fr: Tchad
   en: Chad
   es: Chad
+CC:
+  fr: Îles Cocos (Keeling)
+  en: Cocos (Keeling) Islands
+  es: Islas Cocos (Keeling)
+CW:
+  fr: Curacao
+  en: Curaçao
+  es: Curazao
+CX:
+  fr: Île Christmas"
+  en: Christmas Island
+  es: Isla Navidad
 CL:
   fr: Chili
   en: Chile
@@ -802,3 +850,151 @@ ZW:
   fr: Zimbabwe
   en: Zimbabwe
   es: Zimbabwe
+EH:
+  fr: Sahara Occidental
+  en: Western Sahara
+  es: Sáhara Occidental
+FK:
+  fr: Îles (malvinas) Falkland
+  en: Falkland Islands (Malvinas)
+  es: Islas Malvinas
+FO:
+  fr: Îles Féroé
+  en: Faroe Islands
+  es: Islas Faroe
+GF:
+  fr: Guyane Française
+  en: French Guiana
+  es: Guinea Francesa
+GL:
+  fr: Groenland
+  en: Greenland
+  es: Groenlandia
+GP:
+  fr: Guadeloupe
+  en: Guadeloupe
+  es: Guadalupe
+GS:
+  fr: Géorgie du Sud et les Îles Sandwich du Sud
+  en: South Georgia and the South Sandwich Islands
+  es: Georgia del Sur e Islas Sandwich del Sur
+GU:
+  fr: Guam
+  en: Guam
+  es: Guam
+HM:
+  fr: Îles Heard et Mcdonald
+  en: Heard Island and McDonald Islands
+  es: Islas Heard e Islas McDonald
+IM:
+  fr: Île de Man
+  en: Isle of Man
+  es: Isle of Man
+IO:
+  fr: Territoire Britannique de l'Océan Indien
+  en: British Indian Ocean Territory
+  es: Territorio Oceánico de la India Británica
+JE:
+  fr: Jersey
+  en: Jersey
+  es: Jersey
+KY:
+  fr: Îles Caïmanes
+  en: Cayman Islands
+  es: Islas Caimán
+ME:
+  fr: Monténégro
+  en: Montenegro
+  es: Montenegro
+MO:
+  fr: Macao
+  en: Macao
+  es: Macao
+MP:
+  fr: Îles Mariannes du Nord
+  en: Northern Mariana Islands
+  es: Islas de Norte-Mariana
+MQ:
+  fr: Martinique
+  en: Martinique
+  es: Martinica
+MS:
+  fr: Montserrat
+  en: Montserrat
+  es: Montserrat
+NC:
+  fr: Nouvelle-Calédonie
+  en: New Caledonia
+  es: Nueva Caledonia
+NF:
+  fr: Île Norfolk
+  en: Norfolk Island
+  es: Islas Norfolk
+PM:
+  fr: Saint-Pierre-et-Miquelon
+  en: Saint Pierre and Miquelon
+  es: San Pedro y Miquelon
+PN:
+  fr: Pitcairn
+  en: Pitcairn
+  es: Pitcairn
+PR:
+  fr: Porto Rico
+  en: Puerto Rico
+  es: Puerto Rico
+PS:
+  fr: Territoire Palestinien Occupé
+  en: Palestine, State of
+  es: Palestina
+RE:
+  fr: Réunion
+  en: Réunion
+  es: Reunión
+SH:
+  fr: Sainte-Hélène
+  en: Saint Helena, Ascension and Tristan da Cunha
+  es: Santa Helena
+SJ:
+  fr: Svalbard et Île Jan Mayen
+  en: Svalbard and Jan Mayen
+  es: Esvalbard y Jan Mayen
+SS:
+  fr: Soudan du sud
+  en: South Sudan
+  es: Sudán del Sur
+TC:
+  fr: Îles Turks et Caïques
+  en: Turks and Caicos Islands
+  es: Islas Turks y Caicos
+TF:
+  fr: Terres Australes Françaises
+  en: French Southern Territories
+  es: Territorios Sureños de Francia
+TK:
+  fr: Tokelau
+  en: Tokelau
+  es: Tokelau
+TL:
+  fr: Timor-Leste
+  en: Timor-Leste
+  es: Timor Leste
+UM:
+  fr: Îles Mineures Éloignées des États-Unis
+  en: United States Minor Outlying Islands
+  es: Islas Ultramarinas de Estados Unidos
+VG:
+  fr: Îles Vierges Britanniques
+  en: Virgin Islands (British)
+  es: Islas Vírgenes Británicas
+VI:
+  fr: Îles Vierges des États-Unis
+  en: Virgin Islands (U.S.)
+  es: U.S. Virgin Islands
+WF:
+  fr: Wallis et Futuna
+  en: Wallis and Futuna
+  es: Wallis y Futuna
+YT:
+  fr: Mayotte
+  en: Mayotte
+  es: Mayote
