@@ -4,7 +4,7 @@ module CountryTools
     @@all_countries ||= YAML.load(File.read(path))
   end
 
-  CEE_CODES = %w[ DE AT BE BG CY DK ES EE FI FR EL HU IE IT LV LT LU MT NL PL PT GB RO SK SI SE CZ ]
+  CEE_CODES = %w[ DE AT BE BG CY DK ES EE FI FR EL HU IE IT LV LT LU MT NL PL PT RO SK SI SE CZ ]
 
   def self.in_cee?(code)
     CEE_CODES.include?(code)
